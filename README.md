@@ -13,5 +13,5 @@ Game Development Repo MA
 # Fantasy opdracht 3.2C
 ![Fantasy foto](images/fantasy.png "Mijn fantasy opdracht")
 
-# Coin pickup 4.1
+# Coin pickup 4.2
 ![Pickup](images/coinpickup.gif "Coin pick up")
