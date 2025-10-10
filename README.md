@@ -15,3 +15,12 @@ Game Development Repo MA
 
 # Coin pickup 4.2
 ![Pickup](images/coinpickup.gif "Coin pick up")
+
+# Healthbar 5.1A
+![Healthbar](images/healthbar.gif "HealtBar")
+
+# WeaponSwitch 5.1B
+![WeaponSwitch](images/weaponswitch.gif "Weapon Switch")
+
+# WeaponSwitchEnum 5.1C
+![WeaponSwitchEnum](images/enum.gif "WeaponSwitchEnum") 
