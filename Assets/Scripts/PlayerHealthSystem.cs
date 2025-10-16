@@ -4,7 +4,10 @@ using UnityEngine;
 public class PlayerHealthSystem : MonoBehaviour
 {
 
-    public int health = 3;
+    // publiek zodat HealthPickup direct kan controleren (of gebruik methods)
+    public int health = 50;
+    public int maxHealth = 100;
+
     public Vector3 respawnPoint;
 
     public TextMeshProUGUI healthTextField;
@@ -52,5 +55,15 @@ public class PlayerHealthSystem : MonoBehaviour
         transform.position = respawnPoint;
     }
 
+    public void AddHealth(int amount)
+    {
+        health = Mathf.Clamp(health + amount, 0, maxHealth);
+    }
+
+    // optionele helper
+    public bool IsFull()
+    {
+        return health >= maxHealth;
+    }
 
 }
