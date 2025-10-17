@@ -15,10 +15,13 @@ public class coinpickup : MonoBehaviour
     }
 
 
-    void OnTriggerEnter(Collider _)
+    void OnTriggerEnter(Collider other)
     {
-        Debug.Log("works");
-        Destroy(gameObject);
+        if(other.gameObject.CompareTag("Player"))
+        {
+            Debug.Log("Coin picked up!");
+            Destroy(gameObject);
+        }
     }
 
 

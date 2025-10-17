@@ -24,7 +24,7 @@ public class CollectObject : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             // kijkt of de tag gelijk is aan "Player"
-            feedbackText.text = "Hey, ik verzamelde een "+ gameObject.tag;
+            feedbackText.text = "Hey, ik verzamelde een "+ gameObject.name;
             // tel verzamelde coins en bewaar in variabel
             GlobalSettings.instance.coinsCollected++;
             // update textfield
