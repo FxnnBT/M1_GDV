@@ -40,4 +40,5 @@ Script: [Healtpickup](Assets/Scripts/HealthPickup.cs)
 
 # Game 6.1
 ![Game](images/game.gif "Game")
-Scripts (Ook coinpickup): [Gamescripts](Assets/Scripts/PlayerVarHealth.cs)
+Scripts: [Gamescripts](Assets/Scripts/PlayerVarHealth.cs)
+[Healthpickup](Assets/Scripts/HealthPickup.cs)
