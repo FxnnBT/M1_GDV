@@ -36,3 +36,8 @@ Script: [WeaponSwitchEnum](Assets/Scripts/WeaponEnum.cs)
 ![HealtPickup](images/Healthpickup.gif "HealthPickup")
 Script: [Healtpickup](Assets/Scripts/HealthPickup.cs)
 [HealtVar](Assets/Scripts/PlayerVarHealth.cs)
+
+
+# Game 6.1
+![Game](images/game.gif "Game")
+Scripts (Ook coinpickup): [Gamescripts](Assets/Scripts/PlayerVarHealth.cs)
