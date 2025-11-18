@@ -32,22 +32,5 @@ public class healthbar : MonoBehaviour
         {
             Debug.Log("Current health:" + Health);
         }
-       /* if (Input.GetKeyDown("t"))
-        {
-            int Health = 24;
-            Health -= 10;
-            Debug.Log("You took damage! Health is now at " + Health);
-        }
-        if (Input.GetKeyDown("h"))
-        {
-            int Health = 24;
-            Health += 10;
-            Debug.Log("You healed! Health is now at " + Health);
-        }
-        if (Input.GetKeyDown("r"))
-        {
-            int Health = 24;
-            Debug.Log("Health is at " + Health);
-        }
-    */}
+    }
 }

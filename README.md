@@ -12,7 +12,8 @@ Overzicht van opdrachten en scripts voor de Game Development module.
 - [WeaponSwitch 5.1B / Enum 5.1C](#weaponswitch-51b--enum-51c)
 - [Health Pickup 5.2](#health-pickup-52)
 - [Game 6.1](#game-61)
-
+- [M2](#m2)
+- [Random Items](#random-items)
 ---
 
 ## Coin, Goomba en Ghost 2.1
@@ -86,4 +87,14 @@ Beschrijving: Mini-game waarbij alle coins verzameld moeten worden. Eindigen kan
 Scripts: [PlayerVarHealth.cs](Assets/Scripts/PlayerVarHealth.cs), [HealthPickup.cs](Assets/Scripts/HealthPickup.cs), [coinpickup.cs](Assets/coinpickup.cs)
 
 ---
+
+# M2
+
+---
+
+## Random items
+![randomitem](images/random_items.gif "randomitems")
+
+Beschrijving: Herhaling van datatypes en we hebben met private gewerkt en random items in de console laten appearen als je op een bepaald knop klikt. ik heb nmr1 voor een willekeurig item, en nmr 2 voor alle items
+Script: [Randomitems](Assets/Scripts/randomitems.cs)
 
