@@ -95,6 +95,7 @@ Scripts: [PlayerVarHealth.cs](Assets/Scripts/PlayerVarHealth.cs), [HealthPickup.
 ## Random items
 ![randomitem](images/random_items.gif "randomitems")
 
-Beschrijving: Herhaling van datatypes en we hebben met private gewerkt en random items in de console laten appearen als je op een bepaald knop klikt. ik heb nmr1 voor een willekeurig item, en nmr 2 voor alle items
+Beschrijving: Herhaling van datatypes en we hebben met private gewerkt en random items in de console laten appearen als je op een bepaald knop klikt. ik heb nmr1 voor een willekeurig item, en nmr 2 voor alle items.
+
 Script: [Randomitems](Assets/Scripts/randomitems.cs)
 
